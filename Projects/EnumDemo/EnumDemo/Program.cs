@@ -22,6 +22,21 @@ namespace EnumDemo
         static void Main(string[] args)
         {
             //Processar(Dia.Terça);
+            var myClass = new MyClass();
+            myClass[0] = 1;
+
+            
+        }
+
+        class MyClass
+        {
+            private int[] arrayInterno = new int[10];
+
+            public int this[int index]
+            {
+                get { return arrayInterno[index]; }
+                set { arrayInterno[index] = value; }
+            }
         }
 
         //static void Processar(Dia dia)
