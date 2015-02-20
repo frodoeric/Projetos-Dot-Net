@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\LogEvent\LogEvent\bin\Debug\LogEvent.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\LogEvent\LogEvent\bin\Debug\LogEvent.exe
+c:\users\admin\documents\visual studio 2012\Projects\LogEvent\LogEvent\bin\Debug\LogEvent.pdb
+c:\users\admin\documents\visual studio 2012\Projects\LogEvent\LogEvent\obj\Debug\LogEvent.exe
+c:\users\admin\documents\visual studio 2012\Projects\LogEvent\LogEvent\obj\Debug\LogEvent.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\LogEvent\LogEvent\bin\Debug\LogEvent.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\LogEvent\LogEvent\obj\Debug\LogEvent.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\LogEvent\LogEvent\obj\Debug\LogEvent.pdb

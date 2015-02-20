@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+c:\users\admin\documents\visual studio 2012\Projects\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+c:\users\admin\documents\visual studio 2012\Projects\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

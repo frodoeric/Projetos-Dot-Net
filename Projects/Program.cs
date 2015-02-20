@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -19,7 +20,7 @@ namespace ExceptionDemo
                 int x = 1;
                 int y = 0;
 
-                Adicionar(0, 0);
+               // Adicionar(0, 0);
 
 
                 int z = x / y;
@@ -28,15 +29,15 @@ namespace ExceptionDemo
             }
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine(ex.Message);
+                Debug.WriteLine(ex.Message);
             }
             catch (FileNotFoundException ex)
             {
-                Console.WriteLine("Arquivo não encontrado");
+                Debug.WriteLine(ex.Message);
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
+                Debug.WriteLine(ex.Message);
             }
             finally
             {
