@@ -34,22 +34,29 @@ namespace DelegateDemo2
         //    return false;
         //}
 
-        public static List<string> Filtrar(List<string> textos, Predicate<string> predicado)
+        public static IEnumerable<string> Filtrar(List<string> textos, Predicate<string> predicado)
             //Func é um predicado pré-fabricado Func<string, bool>
             //Action é um predicado pré-fabricado que não retorna nada
             //Predicate recebe uma sting e retorna boll
         {
-            List<string> retorno = new List<string>();
+            //List<string> retorno = new List<string>();
 
-            foreach (var texto in textos)
-	        {
-		         if (predicado(texto))
-                 {
-                     retorno.Add(texto);
-                 }
-	        }
+            //foreach (var texto in textos)
+            //{
+            //     if (predicado(texto))
+            //     {
+            //         retorno.Add(texto);
+            //     }
+            //}
+            foreach (var text in textos)
+            {
+                if (predicado(text))
+                {
+                    yield return text; //yield retorna todos os itens
+                }
+            }
 
-            return retorno;
+            //return retorno;
         }
     }
 }

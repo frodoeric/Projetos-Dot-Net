@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\FileDemo\FileDemo\bin\Debug\FileDemo.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\FileDemo\FileDemo\bin\Debug\FileDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\FileDemo\FileDemo\bin\Debug\FileDemo.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\FileDemo\FileDemo\obj\Debug\FileDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\FileDemo\FileDemo\obj\Debug\FileDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\FileDemo\FileDemo\obj\Debug\FileDemo.pdb

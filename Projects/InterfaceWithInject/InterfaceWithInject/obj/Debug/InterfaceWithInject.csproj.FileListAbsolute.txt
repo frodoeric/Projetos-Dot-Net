@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\InterfaceWithInject\InterfaceWithInject\bin\Debug\InterfaceWithInject.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\InterfaceWithInject\InterfaceWithInject\bin\Debug\InterfaceWithInject.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\InterfaceWithInject\InterfaceWithInject\bin\Debug\InterfaceWithInject.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\InterfaceWithInject\InterfaceWithInject\obj\Debug\InterfaceWithInject.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\InterfaceWithInject\InterfaceWithInject\obj\Debug\InterfaceWithInject.pdb

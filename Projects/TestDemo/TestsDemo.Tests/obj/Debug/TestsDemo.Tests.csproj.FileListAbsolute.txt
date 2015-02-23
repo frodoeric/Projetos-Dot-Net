@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TestDemo\TestsDemo.Tests\bin\Debug\TestsDemo.Tests.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TestDemo\TestsDemo.Tests\bin\Debug\TestsDemo.Tests.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TestDemo\TestsDemo.Tests\obj\Debug\TestsDemo.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TestDemo\TestsDemo.Tests\obj\Debug\TestsDemo.Tests.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TestDemo\TestsDemo.Tests\obj\Debug\TestsDemo.Tests.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TestDemo\TestsDemo.Tests\bin\Debug\TestDemo1.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TestDemo\TestsDemo.Tests\bin\Debug\TestDemo1.pdb

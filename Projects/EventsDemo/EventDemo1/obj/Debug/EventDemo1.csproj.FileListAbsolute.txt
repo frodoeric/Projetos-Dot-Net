@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EventsDemo\EventDemo1\bin\Debug\EventDemo1.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EventsDemo\EventDemo1\bin\Debug\EventDemo1.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EventsDemo\EventDemo1\bin\Debug\EventDemo1.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EventsDemo\EventDemo1\obj\Debug\EventDemo1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EventsDemo\EventDemo1\obj\Debug\EventDemo1.Form1.resources
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EventsDemo\EventDemo1\obj\Debug\EventDemo1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EventsDemo\EventDemo1\obj\Debug\EventDemo1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EventsDemo\EventDemo1\obj\Debug\EventDemo1.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EventsDemo\EventDemo1\obj\Debug\EventDemo1.pdb

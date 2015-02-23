@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CustumException\CustumExceptionDemo\bin\Debug\CustumExceptionDemo.exe.config

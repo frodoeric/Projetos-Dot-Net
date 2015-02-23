@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\IComparableDemo\IComparableDemo\bin\Debug\IComparableDemo.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\IComparableDemo\IComparableDemo\bin\Debug\IComparableDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\IComparableDemo\IComparableDemo\bin\Debug\IComparableDemo.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\IComparableDemo\IComparableDemo\obj\Debug\IComparableDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\IComparableDemo\IComparableDemo\obj\Debug\IComparableDemo.pdb

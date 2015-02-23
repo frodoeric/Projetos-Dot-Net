@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\Heranca\HerancaDemo\bin\Debug\HerancaDemo.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\Heranca\HerancaDemo\bin\Debug\HerancaDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\Heranca\HerancaDemo\bin\Debug\HerancaDemo.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\Heranca\HerancaDemo\obj\Debug\HerancaDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\Heranca\HerancaDemo\obj\Debug\HerancaDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\Heranca\HerancaDemo\obj\Debug\HerancaDemo.pdb
