@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\bin\Debug\CadastroDeClientes.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\bin\Debug\CadastroDeClientes.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\bin\Debug\CadastroDeClientes.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes_MarkupCompile.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.g.resources
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.pdb

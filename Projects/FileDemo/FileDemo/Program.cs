@@ -43,14 +43,33 @@ namespace FileDemo
             ////cria uma variável que representa a pasta
             //DirectoryInfo pasta = new DirectoryInfo(@"E:\Minha Pasta");
             
-            string pasta = @"E:\Minha Pasta";
-            string arquivo = @"arquivo.txt";
+            //string pasta = @"E:\Minha Pasta";
+            //string arquivo = @"arquivo.txt";
 
-            Path.Combine(pasta, arquivo);//junta a pasta com o arquivo
+            //Path.Combine(pasta, arquivo);//junta a pasta com o arquivo
 
-            var temp = Path.GetTempPath();
+            //var temp = Path.GetTempPath();
             
-            Console.Read();
+            //Console.Read();
+
+            StreamWriter();
+            
+        }
+
+        static void StreamWriter()
+        {
+            string destinationFilePath = @"E:\setting.txt";
+            string data = "Hello, this will be written in plain text";
+
+            using (var destFile = new FileStream(
+                destinationFilePath, 
+                FileMode.Create,
+                FileAccess.Write))
+            using (var writer = new StreamWriter(destFile))
+            {
+                writer.WriteLine(data);
+            }
+                
         }
     }
 }

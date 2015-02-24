@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EFDemo1\EFDemo1\bin\Debug\EFDemo1.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EFDemo1\EFDemo1\bin\Debug\EFDemo1.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EFDemo1\EFDemo1\bin\Debug\EFDemo1.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EFDemo1\EFDemo1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EFDemo1\EFDemo1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EFDemo1\EFDemo1\obj\Debug\EFDemo1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EFDemo1\EFDemo1\obj\Debug\EFDemo1.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\EFDemo1\EFDemo1\obj\Debug\EFDemo1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\bin\Debug\StackPainelDemo.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\bin\Debug\StackPainelDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\bin\Debug\StackPainelDemo.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\StackPainelDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\StackPainelDemo_MarkupCompile.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\StackPainelDemo.g.resources
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\StackPainelDemo.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\StackPainelDemo.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\StackPainelDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\StackPainelDemo\StackPainelDemo\obj\Debug\StackPainelDemo.pdb
