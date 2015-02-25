@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TaskDemo\TaskDemo\bin\Debug\TaskDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TaskDemo\TaskDemo\bin\Debug\TaskDemo.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TaskDemo\TaskDemo\obj\Debug\TaskDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TaskDemo\TaskDemo\obj\Debug\TaskDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\TaskDemo\TaskDemo\obj\Debug\TaskDemo.pdb
