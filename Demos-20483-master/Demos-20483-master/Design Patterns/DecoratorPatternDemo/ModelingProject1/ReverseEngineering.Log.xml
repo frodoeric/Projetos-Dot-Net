@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-02-02T15:14:07" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo' -  (Package)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::AdicionaisDecoratorBase' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::Pizza' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaFina' -  (Class)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaFina::Custo' -  (Property)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaFina::Descricao' -  (Property)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaFina::PizzaComMassaFina' -  (Operation)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaFina::PizzaComMassaFina::pizza' -  (Parameter)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaGrossa' -  (Class)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaGrossa::Custo' -  (Property)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaGrossa::Descricao' -  (Property)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaGrossa::PizzaComMassaGrossa' -  (Operation)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaComMassaGrossa::PizzaComMassaGrossa::pizza' -  (Parameter)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaMussarela' -  (Class)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaMussarela::Custo' -  (Property)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaMussarela::Descricao' -  (Property)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaMussarela::PizzaMussarela' -  (Operation)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaPortuguesa' -  (Class)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaPortuguesa::Custo' -  (Property)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaPortuguesa::Descricao' -  (Property)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::DecoratorPatternDemo::PizzaPortuguesa::PizzaPortuguesa' -  (Operation)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System' -  (Package)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Double' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaMussarela to ModelingProject1::System::Double (Association)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaMussarela to ModelingProject1::DecoratorPatternDemo::Pizza (Generalization)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaPortuguesa to ModelingProject1::System::Double (Association)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaPortuguesa to ModelingProject1::DecoratorPatternDemo::Pizza (Generalization)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaComMassaFina to ModelingProject1::System::Double (Association)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaComMassaFina to ModelingProject1::DecoratorPatternDemo::AdicionaisDecoratorBase (Generalization)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaComMassaGrossa to ModelingProject1::System::Double (Association)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaComMassaGrossa to ModelingProject1::DecoratorPatternDemo::AdicionaisDecoratorBase (Generalization)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::AdicionaisDecoratorBase to ModelingProject1::DecoratorPatternDemo::Pizza (Generalization)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaCalabreza to ModelingProject1::DecoratorPatternDemo::Pizza (Generalization)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::DecoratorPatternDemo::PizzaComBordaRecheada to ModelingProject1::DecoratorPatternDemo::AdicionaisDecoratorBase (Generalization)" />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="High" Text="(4) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="High" Text="(3) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2015-02-02T15:14:08" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

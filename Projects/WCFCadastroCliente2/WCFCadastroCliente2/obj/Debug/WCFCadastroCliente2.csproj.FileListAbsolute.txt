@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\WCFCadastroCliente2.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\WCFCadastroCliente2.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\Microsoft.Data.Edm.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\Microsoft.Data.OData.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\Microsoft.Data.Services.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\System.Spatial.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\Microsoft.Data.Edm.xml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\Microsoft.Data.OData.xml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\Microsoft.Data.Services.xml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\bin\System.Spatial.xml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\obj\Debug\WCFCadastroCliente2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\obj\Debug\WCFCadastroCliente2.dll
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\WCFCadastroCliente2\WCFCadastroCliente2\obj\Debug\WCFCadastroCliente2.pdb
