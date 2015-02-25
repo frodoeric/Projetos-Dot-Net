@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\bin\Debug\AsncDemo2.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\bin\Debug\AsncDemo2.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\bin\Debug\AsncDemo2.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\AsncDemo2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\AsncDemo2_MarkupCompile.cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\AsncDemo2.g.resources
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\AsncDemo2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\AsncDemo2.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\AsncDemo2.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AsncDemo2\AsncDemo2\obj\Debug\AsncDemo2.pdb
