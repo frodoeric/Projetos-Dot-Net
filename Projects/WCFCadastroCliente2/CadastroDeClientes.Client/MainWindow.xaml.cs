@@ -43,9 +43,18 @@ namespace CadastroDeClientes.Client
 
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private async void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            ClientesListBox.ItemsSource = dados.ObterClientes();
+            BarraProgresso.Visibility = Visibility.Visible;
+            await Task.Run(() =>
+                {
+                    var clientes = dados.ObterClientes();
+                    Dispatcher.Invoke(() =>
+                        {
+                            ClientesListBox.ItemsSource = dados.ObterClientes();
+                            BarraProgresso.Visibility = Visibility.Collapsed;
+                        });
+                });
 
         }
 
