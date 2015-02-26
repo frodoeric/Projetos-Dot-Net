@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\bin\Debug\AttributesDemo.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\bin\Debug\AttributesDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\bin\Debug\AttributesDemo.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\obj\Debug\AttributesDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\obj\Debug\AttributesDemo.pdb

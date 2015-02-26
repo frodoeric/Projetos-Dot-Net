@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\bin\Release\AttributesDemo.exe.config
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\bin\Release\AttributesDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\bin\Release\AttributesDemo.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\obj\Release\AttributesDemo.exe
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\obj\Release\AttributesDemo.pdb
+C:\Users\Admin\Desktop\Projetos-Dot-Net\Projects\AttributesDemo\AttributesDemo\obj\Release\AttributesDemo.csprojResolveAssemblyReference.cache
